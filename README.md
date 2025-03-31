@@ -6,3 +6,4 @@ The code for paper A robust bearing fault diagnosis method based on ensemble lea
 (4)model_train.py and model_test.py are used to train and test the model.
 (5)You should pay attention to the address of the file in the code.
 (6)You can download the CWRU dataset from https://csegroups.case.edu/bearingdatacenter/pages/download-data-file; You can download the HIT dataset from the https://drive.google.com/drive/folders/1Km1Go4ilB_bI033SBJ7eJ0uCzbqEqbgt?usp=sharing.
+(7)The dataset structure is dateset/cwru/0hp and dataset/hit.
